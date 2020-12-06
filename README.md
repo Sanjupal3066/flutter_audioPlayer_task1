@@ -14,13 +14,13 @@ House Rental System is a webpage where house owners,customers can exchange infor
 4. Create DataBase named **houserentaldb** and import the SQL File (SQL/houserentaldb.sql)
 5. Now You can run project by Simply writing localhost/houseRental in your browser
 
-#Login Details:
-	##Admin:
+# Login Details:
+	## Admin:
 	```bash
 		Email-ID: admin@gmail.com
 		Password: 12345678
 	```
-	##USER:
+	## USER:
 	```bash
 		Email-ID: Sanjupal3066@gmail.com
 		Password: 12345678
