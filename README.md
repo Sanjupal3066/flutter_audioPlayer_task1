@@ -18,13 +18,13 @@ Admin has all the functionality which user have but also have a privelged access
 5. For running the Project visit http://localhost/houseRental in your browser.
 
 ## Login Details:
-###Admin:
+### Admin:
 ```bash
 	Email-ID: admin@gmail.com
 	Password: 12345678
 	Mobile: 9872971934(For Reseting the Password)
 ```
-###USER:
+### USER:
 ```bash
 	Email-ID: Sanjupal3066@gmail.com
 	Password: 12345678
